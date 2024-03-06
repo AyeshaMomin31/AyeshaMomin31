@@ -1,8 +1,9 @@
 ![logo](https://github.com/AyeshaMomin31/AyeshaMomin31/blob/main/Ayesha%20Momin.png)
+
 <h1 align="center">Hi 👋, I'm Momin Ayesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="code" width="400" src="https://assets-v2.lottiefiles.com/a/670b4778-1181-11ee-bcb2-cf9f6a4fd292/WGTr5A7bOa.gif">
+<img align="right" alt="code" width="300" src="https://assets-v2.lottiefiles.com/a/670b4778-1181-11ee-bcb2-cf9f6a4fd292/WGTr5A7bOa.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshamomin31&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshamomin31" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://ayeshamomin31.github.io/](https://ayeshamomin31.github.io/)
@@ -22,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshamomin31&show_icons=true&locale=en&layout=compact" alt="ayeshamomin31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshamomin31&show_icons=true&locale=en" alt="ayeshamomin31" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamomin31&" alt="ayeshamomin31" /></p>
