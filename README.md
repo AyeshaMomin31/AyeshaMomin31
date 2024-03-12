@@ -1,4 +1,3 @@
-![logo](https://github.com/AyeshaMomin31/AyeshaMomin31/blob/main/Ayesha%20Momin.png)
 
 <h1 align="center">Hi 👋, I'm Momin Ayesha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
